@@ -172,6 +172,7 @@ form input {
 
 .button:hover {
   background-position: right;
+  color: #000;
 }
 
 .results {
